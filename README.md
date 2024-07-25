@@ -1,4 +1,4 @@
-# Hi there, I'm Alshimaa Abdelraoof Mahmoud 👋
+# Hi there, I'm Alshimaa Ibrahim 👋
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
@@ -105,11 +105,5 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 
 - LinkedIn:(https://www.linkedin.com/in/alshimaa-ibrahim/)
 - Email: Alshimaa.abdelraof@azhar.edu.eg
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
-
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
