@@ -96,11 +96,6 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 - **Business Soft Skills Program** - Thomson Course Technology
 - **Machine Learning in Production** - Coursera
 
-## Language Skills
-
-- **Arabic**: Mother tongue
-- **English**: Good in writing and speaking
-
 ## Contact
 
 - LinkedIn:(https://www.linkedin.com/in/alshimaa-ibrahim/)
