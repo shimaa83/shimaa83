@@ -34,55 +34,6 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Experience
-
-### Team Leader
-**EduEdge Company**  
-*2020 - 2023*  
-- Led a team of developers to build educational technology solutions.
-
-### Full Stack Web Developer
-**Vice President Office of Al-Azhar University**  
-*2019 - 2020*  
-- Developed and maintained web applications for the university's administrative needs.
-
-### Senior Web Developer
-**World Association of Azhar Graduation e-Learning Department**  
-*2012 - 2022*  
-- Contributed to the development of e-learning platforms and resources.
-
-### Lecturer
-**Faculty of Engineering, Al-Azhar University**  
-*2015 - 2018*  
-- Taught courses in computer and system sciences part-time.
-
-### Lecturer
-**MCI Academy**  
-*2021 - 2023*  
-- Delivered lectures on advanced topics in computer science.
-
-### Lecturer
-**Ahram Canadian University**  
-*2023 - 2024*  
-- Provided instruction in computer science and related fields.
-
-## Education
-
-### PhD in Computer Science
-**El-Azher University**  
-*2015*  
-- Thesis: "Scoring of Open End Questions Automatically"
-
-### Master's Degree in Computer Science
-**El-Azher University**  
-*2012*  
-- Thesis: "Handwritten Character Recognition for Automatic Reading of Historical Islamic Manuscripts"
-
-### Bachelor of Science in Math and Computer Science
-**El-Azher University**  
-*2001 - 2005*  
-- Graduated with excellent honors.
-
 ## Certifications
 
 - **Data Analytics Consulting Virtual Internship** - Forage
