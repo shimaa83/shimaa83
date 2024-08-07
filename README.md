@@ -8,7 +8,6 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 - 🌱 I’m currently learning: Advanced NLP techniques and applications.
 - 👯 I’m looking to collaborate on: Projects related to web development, data science, and AI.
 - 💬 Ask me about: Web development, data analysis, and machine learning.
-- 📫 How to reach me: Alshimaa.abdelraof@azhar.edu.eg
 
 ## Skills
 
@@ -21,7 +20,6 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 ### Frameworks and Libraries
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,22 +32,7 @@ I am a passionate Full Stack Web Developer and Lecturer with extensive experienc
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Certifications
-
-- **Data Analytics Consulting Virtual Internship** - Forage
-- **Building a Data Analysis System for High School Final Exams in Egypt** - Omdena (Giza Egypt Chapter)
-- **Building a Smart Assistant for Deaf and Dumb using Deep Learning** - Omdena (Jordan Chapter)
-- **Hepatocellular Carcinoma Histopathology Detection Using Deep Learning and XAI & App Deployment** - Omdena (Riyadh Saudi Arabia Chapter)
-- **Data Science** - FWD-Udacity
-- **Applied Deep Learning** - ITI Mahratech
-- **CIW** - Certificate Internet Web Master
-- **MOUS** - Microsoft Office Specialist
-- **Business Soft Skills Program** - Thomson Course Technology
-- **Machine Learning in Production** - Coursera
-
 ## Contact
 
 - LinkedIn:(https://www.linkedin.com/in/alshimaa-ibrahim/)
-- Email: Alshimaa.abdelraof@azhar.edu.eg
-
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
