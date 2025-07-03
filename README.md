@@ -1,38 +1,21 @@
-# Hi there, I'm Alshimaa Ibrahim 👋
+# 👋 Hi there, I'm **Alshimaa Ibrahim**
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+🔗 **My Portfolio:** [click here](https://polite-licorice-363f7a.netlify.app/)
 
-## About Me
-I am a passionate Full Stack Web Developer and Lecturer with extensive experience in web development and data science. With a strong academic background and professional experience, I enjoy solving challenging problems and contributing to innovative projects.
+---
 
-- 🌱 I’m currently learning: Advanced NLP techniques and applications.
-- 👯 I’m looking to collaborate on: Projects related to web development, data science, and AI.
-- 💬 Ask me about: Web development, data analysis, and machine learning.
+## 👩‍💻 About Me
 
-## Skills
+I'm a **passionate Full Stack Web Developer** and **Lecturer** with a strong background in **web development** and **data science**.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+I love solving challenging problems and contributing to innovative, impactful projects. My journey blends academic rigor with real-world experience — and I’m always eager to learn and grow.
 
-### Frameworks and Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+---
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+## 📌 What I'm Currently Up To
 
-### Databases
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🌱 **Currently Learning:** Advanced NLP techniques and applications.  
+- 👯 **Looking to Collaborate On:** Projects related to web development, data science, and AI.  
+- 💬 **Ask Me About:** Web development, data analysis, and machine learning.
 
-## Contact
-
-- LinkedIn:(https://www.linkedin.com/in/alshimaa-ibrahim/)
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+---
